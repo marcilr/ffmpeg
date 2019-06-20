@@ -1,0 +1,22 @@
+README
+Created Wed Jun 19 21:06:45 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+ffmpeg-man.txt
+  manpage for ffmpeg
+  ffmpeg - ffmpeg video converter
+  ffmpeg man page generated with:
+  $ create ffmpeg-man.txt
+  $ man ffmpeg | col -b >> ffmpeg-man.txt
+
+ffmpeg.txt
+  ffmpeg - ffmpeg video converter
+
+links.txt
+  ffmpeg related links
+
+packages.txt
+  FFmpeg packages
