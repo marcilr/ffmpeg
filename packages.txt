@@ -1,0 +1,15 @@
+packages.txt
+Created Fri Feb  8 12:54:12 AKST 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+FFmpeg packages
+
+
+FFmpeg debian 6.0.6 amd64 packages
+dvdrip - perl front end for transcode and ffmpeg
+ffmpeg - audio/video encoder, streaming server & audio/video file converter
+ffmpeg-dbg - Debug symbols for ffmpeg related packages.
+ffmpeg-doc - Documentation of the ffmpeg API.
+
+
