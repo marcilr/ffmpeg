@@ -1,0 +1,47 @@
+ffmpeg.txt
+Created Fri Feb  8 12:51:58 AKST 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+FFmpeg
+
+Cross-platform solution to record, convert and stream audio and video.
+It includes libavcodec - the leading audio/video codec library.
+
+
+Applications
+============
+ffmpeg - ffmpeg video converter
+mplayer  - movie player
+mencoder - movie encoder
+
+
+Converting MPEG to MP4
+======================
+
+Re: Converting MPEG to MP4
+--------------------------
+eriksl
+Joined: 12/31/2009
+
+The problem is that you don't give enough information here.
+
+MPEG can be really anything, four containers (including mp4) and also four codecs...
+
+What most people call "MPEG" is actually mpeg2 video in an mpeg program stream container. 
+You should be able to put that in an mp4 container (!) without re-encoding and also without
+quality loss as a result.
+
+FFmpeg does it like this: ffmpeg -i MPEG_file -vcodec copy -acodec copy -f mp4 MP4_file.mp4
+
+kdenlive.org/
+
+
+
+Links
+=====
+Converting MPEG to MP4
+http://www.kdenlive.org/forum/converting-mpeg-mp4
+
+FFmpeg
+http://www.ffmpeg.org/
