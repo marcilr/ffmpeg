@@ -1,0 +1,43 @@
+links.txt
+Created Fri Feb  8 12:53:06 AKST 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+FFmpeg related links
+
+
+Links
+=====
+[FFmpeg-user] Right way to extract and recombine audio/video streams?
+http://ffmpeg.org/pipermail/ffmpeg-user/2013-May/014959.html
+
+FFmpeg
+Cross-platform solution to record, convert and stream audio and video.
+It includes libavcodec - the leading audio/video codec library.
+http://www.ffmpeg.org/
+
+FFmpeg Cheat Sheet
+A little FFmpeg 0.5 guide made by RodrigoPolo.com
+This is a small personal cheat sheet for audio/video encoding
+where I put some of my most used stuff with FFmpeg 0.5 and other tools. I use H.264 and AAC on 
+MP4, M4V or MKV container most of the time.
+http://rodrigopolo.com/ffmpeg/cheats.php
+
+FFmpeg: The ultimate Video and Audio Manipulation Tool
+February 24, 2012 by slhck. 17 comments
+Difference between video codecs and containers.
+http://blog.superuser.com/2012/02/24/ffmpeg-the-ultimate-video-and-audio-manipulation-tool/
+
+How to convert video to `m4v` with `ffmpeg`?
+http://stackoverflow.com/questions/8444776/how-to-convert-video-to-m4v-with-ffmpeg
+
+Useful ffmpeg and mencoder commands on Ubuntu 9.10 Karmic
+http://www.binarytides.com/useful-ffmpeg-and-mencoder-commands-on-ubuntu-9-10-karmic-koala/
+
+Useful FFmpeg Commands
+http://www.labnol.org/internet/useful-ffmpeg-commands/28490/
+
+Video Conversion done right: Codecs and Software
+Link from superuser blog entry
+http://blog.superuser.com/2011/11/07/video-conversion-done-right-codecs-and-software/
+
